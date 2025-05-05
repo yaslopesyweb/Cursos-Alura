@@ -185,9 +185,6 @@ Lembre-se de:
 
 ---
 
-## 🗂️ Como utilizá-lo
-- Baixe o arquivo PDF em seu dispositivo, procure pelo curso ou utilize palavras chave para encontrar algum conteúdo que faça sentido para você. 
-- Baixe o conteúdo do curso selecionado e aproveite!!
 
 
 ## ⚠️ Aviso Legal
